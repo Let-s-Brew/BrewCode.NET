@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32728.150
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrewCode.NET", "BrewCode.NET.csproj", "{6292C2CD-11CB-4005-9C5A-9A62D8E23072}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6292C2CD-11CB-4005-9C5A-9A62D8E23072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6292C2CD-11CB-4005-9C5A-9A62D8E23072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6292C2CD-11CB-4005-9C5A-9A62D8E23072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6292C2CD-11CB-4005-9C5A-9A62D8E23072}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48722765-62B5-4D41-B640-E5D628CD8C6C}
+	EndGlobalSection
+EndGlobal
